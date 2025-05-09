@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Sunny in Saint Petersburg",
             artist: "Saib",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            cover: "https://cdn3.f-cdn.com/contestentries/1180888/27281620/5a09a99ee8114_thumb900.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://mp3.chillhop.com/serve.php/?mp3=16076",
