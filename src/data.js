@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://cdn3.f-cdn.com/contestentries/1180888/27281620/5a09a99ee8114_thumb900.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=16076",
+            audio: "https://www.4s.io/mp3/Wk9090cUjq/Android_Remix.html",
             active: true,
         },
         {
