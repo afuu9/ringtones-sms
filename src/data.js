@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://cdn3.f-cdn.com/contestentries/1180888/27281620/5a09a99ee8114_thumb900.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://replay.dropbox.com/project/pid_rp:AAAAACxcn0VKrWJYYFCa1UVknd0Yau-5TvNkvtjJYUQYMOnw/video/pid_rv:AAAAAGlCegoKr4uTGj18tUdgsnFWzZ7MVXx2dHQX9OjVebAY",
+            audio: "https://afuzzsoluciones.xyz/ringtones/sonidos/Dubstep.mp3",
             active: true,
         },
         {
